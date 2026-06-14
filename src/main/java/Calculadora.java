@@ -1,3 +1,5 @@
+// Classe responsável pelas operações matemáticas da calculadora
+
 public class Calculadora {
 
     public double somar(double a, double b) {
